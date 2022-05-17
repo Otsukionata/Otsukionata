@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games, Coding, Web Design
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootcamp and PHP
 
-I'm looking for internship. It will begin on March çth. Please contact me here.
+I'm looking for internship. It will begin on September... Well in fact, it begun already but the school is still waiting for me to find a company to work with. Please contact me here.
 
 
 <!---
